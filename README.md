@@ -7,8 +7,12 @@
 
 <a href='https://www.linkedin.com/in/luka-patrun/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Luka%20Patrun-100000?style=for-the-badge&logo=LinkedIn&logoColor=0072b1&labelColor=ffffff&color=0072b1'/></a>
 
-<a href='mailto:luka.patrun@gmail.com' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Luka%20Patrun-100000?style=for-the-badge&logo=Gmail&logoColor=c71610&labelColor=ffffff&color=c71610'/></a>
+<a href='mailto:luka.patrun@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Luka%20Patrun-100000?style=for-the-badge&logo=Gmail&logoColor=c71610&labelColor=ffffff&color=c71610'/></a>
 
+
+Stuff I use to create projects:
+
+<img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=ffffff&color=347ca0'/>
 
 <!--
 **lpatrun/lpatrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
