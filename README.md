@@ -12,8 +12,7 @@
 
 Stuff I use to create projects:
 
-<img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=ffffff&color=347ca0'/>
-<img alt='React Native' src='https://img.shields.io/badge/React%20Native-100000?style=for-the-badge&logo=React&logoColor=ffffff&color=347ca0'/>
+<img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=ffffff&color=347ca0'/> <img alt='React Native' src='https://img.shields.io/badge/React%20Native-100000?style=for-the-badge&logo=React&logoColor=ffffff&color=347ca0'/>
 <img alt='ESLint' src='https://img.shields.io/badge/ESlint-1?style=for-the-badge&logo=Eslint&logoColor=ffffff&color=4b32c3'/>
 <img alt='Expo' src='https://img.shields.io/badge/expo-1?style=for-the-badge&logo=expo&logoColor=000000&color=ffffff'/>
 <img alt='Firebase' src='https://img.shields.io/badge/firebase-1?style=for-the-badge&logo=firebase&logoColor=000000&color=ffffff'/>
